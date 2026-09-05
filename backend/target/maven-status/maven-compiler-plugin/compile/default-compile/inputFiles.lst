@@ -1,0 +1,7 @@
+/Users/nilaygupta/Desktop/VS_CODE/Final Year Project/backend/src/main/java/com/equityresearch/EquityResearchApplication.java
+/Users/nilaygupta/Desktop/VS_CODE/Final Year Project/backend/src/main/java/com/equityresearch/controller/StockController.java
+/Users/nilaygupta/Desktop/VS_CODE/Final Year Project/backend/src/main/java/com/equityresearch/model/AnalysisRequest.java
+/Users/nilaygupta/Desktop/VS_CODE/Final Year Project/backend/src/main/java/com/equityresearch/model/AnalysisResponse.java
+/Users/nilaygupta/Desktop/VS_CODE/Final Year Project/backend/src/main/java/com/equityresearch/model/StockAnalysis.java
+/Users/nilaygupta/Desktop/VS_CODE/Final Year Project/backend/src/main/java/com/equityresearch/repository/StockAnalysisRepository.java
+/Users/nilaygupta/Desktop/VS_CODE/Final Year Project/backend/src/main/java/com/equityresearch/service/StockService.java

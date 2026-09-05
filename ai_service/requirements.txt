@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+yfinance
+feedparser
+transformers
+torch
+google-genai
+python-dotenv
+pydantic
